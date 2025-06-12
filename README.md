@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# EcomApp-react
+react front end for EcomApp backed
+=======
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +56,4 @@ export default tseslint.config({
   },
 })
 ```
+>>>>>>> 28bf35d (Initial commit)
